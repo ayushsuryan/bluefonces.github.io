@@ -593,7 +593,7 @@ h6, .h6 {
 }
 
 .title {
-  font-size: var(--title-heading);
+  /* font-size: var(--title-heading); */
   line-height: calc(var(--title-heading) + 10px);
   letter-spacing: 2px;
 }
